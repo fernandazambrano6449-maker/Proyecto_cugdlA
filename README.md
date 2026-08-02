@@ -3,7 +3,7 @@
 
 ## Autoría
 
-Este proyecto fue desarrollado en equipo durante el bootcamp, integrando Estadística II y Machine Learning. Todos los integrantes contribuimos de manera conjunta a las distintas partes del proyecto.
+Este proyecto fue desarrollado en equipo durante el bootcamp, integrando Estadística II, Machine Learning, Complejidad Computacional, y Bases de Datos. Todos los integrantes contribuimos de manera conjunta a las distintas partes del proyecto.
 
 **Equipo:**
 - Fernanda Lizeth Zambrano Gudiño
